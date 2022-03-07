@@ -177,5 +177,20 @@ export const WORDS = [
   'dilgze',
   'superi',
   'umilta',
-  'canimo'
+  'canimo',
+  'tychee',
+  'nibiru',
+  'decima',
+  'venaci',
+  'etilas',
+  'artaos',
+  'poluko',
+  'luyten',
+  'ladony',
+  'gliese',
+  'khione',
+  'enicke',
+  'silvas',
+  'vanith',
+  'daanga'
 ]

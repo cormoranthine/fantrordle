@@ -638,7 +638,7 @@ export const VALID_GUESSES = [
   'medora',
   'bettah',
   'galtro',
-  'meflis',
+  'melfis',
   'ragine',
   'latoil',
   'justay',

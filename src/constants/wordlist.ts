@@ -162,5 +162,20 @@ export const WORDS = [
   'kashhe',
   'olerie',
   'lorrie',
-  'greene'
+  'greene',
+  'anhema',
+  'yeshua',
+  'vishnu',
+  'gullah',
+  'luxuri',
+  'castia',
+  'avaria',
+  'invidi',
+  'eyerah',
+  'pazena',
+  'acedia',
+  'dilgze',
+  'superi',
+  'umilta',
+  'canimo'
 ]

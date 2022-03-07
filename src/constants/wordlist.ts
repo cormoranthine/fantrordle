@@ -192,5 +192,15 @@ export const WORDS = [
   'enicke',
   'silvas',
   'vanith',
-  'daanga'
+  'daanga',
+  'aivide',
+  'thieri',
+  'vinbre',
+  'malcos',
+  'sasara',
+  'versii',
+  'bettah',
+  'meflis',
+  'ragine',
+  'latoil'
 ]

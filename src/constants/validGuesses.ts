@@ -639,7 +639,7 @@ export const VALID_GUESSES = [
   'bettah',
   'galtro',
   'melfis',
-  'ragine',
+  'raigne',
   'latoil',
   'justay',
   'cowboy',

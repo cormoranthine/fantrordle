@@ -29,7 +29,7 @@ export const WORDS = [
   'peinto',
   'artaos',
   'vanith',
-  'ragine',
+  'raigne',
   'lortah',
   'naarci',
   'protag',

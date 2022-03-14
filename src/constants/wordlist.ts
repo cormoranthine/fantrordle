@@ -147,6 +147,6 @@ export const WORDS = [
   'tsiene',
   'medora',
   'baxter',
-  'ragine',
+  'raigne',
   'litves'
 ]

@@ -11,7 +11,7 @@ export const WORDS = [
   'chaoys',
   'lyliac',
   'siiyda',
-  'predya',
+  'preyda',
   'hotman',
   'terral',
   'laiknd',

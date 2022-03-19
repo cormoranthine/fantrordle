@@ -432,7 +432,7 @@ export const VALID_GUESSES = [
   'animal',
   'peinto',
   'meiyhm',
-  'predya',
+  'preyda',
   'toriey',
   'quorya',
   'ridell',

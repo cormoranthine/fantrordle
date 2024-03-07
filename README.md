@@ -1,4 +1,4 @@
-# React Wordle
+# React ***REMOVED***
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
@@ -57,7 +57,7 @@ Open [http://localhost](http://localhost) in browser.
 - [Rudle](https://rudle.vercel.app): Russian
 - [Sindhal](https://hellosindh.com/sindhal): Sindhi
 - [Szózat](https://szozat.miklosdanka.com/): Hungarian
-- [Tàu Tâi-gí (Taigi Wordle)](https://tau.taigi.info/): Taigi (Taiwanese)
+- [Tàu Tâi-gí (Taigi ***REMOVED***)](https://tau.taigi.info/): Taigi (Taiwanese)
 - [Tlembung](https://tlembung.vercel.app/): Japanese
 - [Tugma](https://tugma.vercel.app): Hiligaynon (spoken in the Philippines)
 - [Ukrainian](https://goroh.pp.ua/games/wordle): Ukrainian
@@ -65,12 +65,12 @@ Open [http://localhost](http://localhost) in browser.
 - [Vārdulis](https://wordle.lielakeda.lv/): Latvian
 - [Word-leh!](https://word-leh.com): Singlish
 - [Wordlar](http://wordlar.uz/): Uzbek
-- [Wordle (BOS)](https://elahmo.github.io/wordle/): Bosnian
-- [Wordle (Spanish)](https://wordle-es.xavier.cc): Spanish/Espanol
-- [Wordle-RO](https://wordle-ro.sirb.net/): Romanian
+- [***REMOVED*** (BOS)](https://elahmo.github.io/wordle/): Bosnian
+- [***REMOVED*** (Spanish)](https://wordle-es.xavier.cc): Spanish/Espanol
+- [***REMOVED***-RO](https://wordle-ro.sirb.net/): Romanian
 - [Wortel](https://wortel.wrintiewaar.co.za): Afrikaans
 - [Wörtchen](https://woertchen.sofacoach.de): German
-- [SGWordle](https://sgwordle.now.sh/): Swiss German
+- [SG***REMOVED***](https://sgwordle.now.sh/): Swiss German
 - [kelma.mt](https://kelma.mt): Maltese
 - [Слівце](https://slivce.com/): Ukrainian
 - [ਪੰਜਾਬੀ](https://punjabipuzzle.netlify.app/): Punjabi
@@ -95,7 +95,7 @@ Open [http://localhost](http://localhost) in browser.
 - [JoJodle](https://jojo-news.com/fun/jojodle/): JoJo’s Bizarre Adventure
 - [Mahjong Handle](https://mahjong-handle.update.sh/): Mahjong Hands
 - [Filmle](https://filmle.now.sh/): Movie titles
-- [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
+- [Movie ***REMOVED***](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
 - [Poker Handle](https://kikychow.github.io/poker-wordle/): Poker
 - [Quettale](https://quettale.vercel.app/): Quenya, Elven language in LOTR
@@ -104,7 +104,7 @@ Open [http://localhost](http://localhost) in browser.
 - [Taylordle](https://www.taylordle.com/): Taylor Swift
 - [Trekle](https://treklegame.com): Star Trek
 - [Weedel](https://meetmeinouter.space/wordle/): Video game characters
-- [Wordle.cl](https://www.wordle.cl): Chilean modisms, cities, places
+- [***REMOVED***.cl](https://www.wordle.cl): Chilean modisms, cities, places
 - [Wrdl](https://wrdl-abae.vercel.app/): Words that are 5 letters long after getting rid of their vowels
 
 ### Math, Acronyms, Science, Tech, and more
@@ -119,7 +119,7 @@ Open [http://localhost](http://localhost) in browser.
 - [Opsle](https://opsle.vercel.app/): Ops
 - [Passwordle](https://passwordle.sp8c3.com/): Passwords
 - [Primel](https://converged.yt/primel/): Prime numbers
-- [Qwordle](https://qwordle.bhat.ca/): Quantum version of Wordle (uses entangled word-pairs)
+- [Qwordle](https://qwordle.bhat.ca/): Quantum version of ***REMOVED*** (uses entangled word-pairs)
 - [Quantle](https://deduckproject.github.io/quantle/): Another quantum variant where guesses are quantum equations
 - [Rundle](https://furstenheim.github.io/react-wordle/): Like wordle, but only last three guesses are considered.
 - [Stockle](https://stockle.win/): Guess the stock or ETF

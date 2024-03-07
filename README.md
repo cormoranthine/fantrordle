@@ -1,6 +1,6 @@
 # Fantrordle
 
-A daily fantroll name guessing game, made with React. Originally by [https://github.com/cwackerfuss](cwackerfuss), but that repository no longer exists.
+A daily fantroll name guessing game, made with React. Originally by [cwackerfuss](https://github.com/cwackerfuss), but that repository no longer exists.
 
 ## Build and run
 

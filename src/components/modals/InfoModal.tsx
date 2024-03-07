@@ -11,6 +11,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
     <BaseModal title="How to play" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Guess the name in 6 tries. After each guess, the color of the tiles will
+        Guess the name in 6 tries. After each guess, the color of the tiles will
         change to show how close your guess was to the word.
       </p>
 
@@ -37,7 +38,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell
           isRevealing={true}
           isCompleted={true}
-          value="L"
+          value="Y"
           status="present"
         />
         <Cell value="T" />
@@ -49,6 +50,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
+        <Cell value="M" />
         <Cell value="M" />
         <Cell value="A" />
         <Cell value="L" />
